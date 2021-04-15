@@ -1,0 +1,13 @@
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\bin\Debug\netcoreapp3.1\P1-DOTNET.exe
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\bin\Debug\netcoreapp3.1\P1-DOTNET.deps.json
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\bin\Debug\netcoreapp3.1\P1-DOTNET.runtimeconfig.json
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\bin\Debug\netcoreapp3.1\P1-DOTNET.runtimeconfig.dev.json
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\bin\Debug\netcoreapp3.1\P1-DOTNET.dll
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\bin\Debug\netcoreapp3.1\P1-DOTNET.pdb
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\obj\Debug\netcoreapp3.1\P1-DOTNET.csprojAssemblyReference.cache
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\obj\Debug\netcoreapp3.1\P1-DOTNET.AssemblyInfoInputs.cache
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\obj\Debug\netcoreapp3.1\P1-DOTNET.AssemblyInfo.cs
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\obj\Debug\netcoreapp3.1\P1-DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\obj\Debug\netcoreapp3.1\P1-DOTNET.dll
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\obj\Debug\netcoreapp3.1\P1-DOTNET.pdb
+C:\Users\joaoz\source\repos\P1-DOTNET\P1-DOTNET\obj\Debug\netcoreapp3.1\P1-DOTNET.genruntimeconfig.cache
